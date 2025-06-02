@@ -1,0 +1,1055 @@
+{
+  "id": "13272454-14d9-4df3-b6a5-bcc3cc66a070",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/d80d982e-913c-4e33-84a0-4f9b62ff0e40",
+  "text": "Your stamina in the streets should match your stamina in the sheets. When it comes to performance, I believe in the inside out approach. And for the long games I have been taking Dura excalibate performer capsules GE. It's made with 100% natural shilajal and Ashwagandha. Trust me, it's my secret to consistent stamina. After eight weeks of this routine, my endurance is better at the gym. Plus it shows up when it matters the most. But for the movements then you need immediate control. Durex Elevate Climax Xilia Spray is your perfect Bing map. Just three sprees, a few minutes and you are ready with a performance worth remembering. With 300 sprays per bottle, this pocket sized confidence booster goes a long way. So head towards durexindia.com and get the perfect duo and take your things to next levels.",
+  "words": [
+    {
+      "text": "Your",
+      "start": 80,
+      "end": 200,
+      "confidence": 0.6855469,
+      "speaker": null
+    },
+    {
+      "text": "stamina",
+      "start": 200,
+      "end": 600,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 600,
+      "end": 760,
+      "confidence": 0.9926758,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 760,
+      "end": 920,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "streets",
+      "start": 920,
+      "end": 1440,
+      "confidence": 0.91064453,
+      "speaker": null
+    },
+    {
+      "text": "should",
+      "start": 1600,
+      "end": 1920,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "match",
+      "start": 1920,
+      "end": 2160,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "your",
+      "start": 2160,
+      "end": 2360,
+      "confidence": 0.93310547,
+      "speaker": null
+    },
+    {
+      "text": "stamina",
+      "start": 2360,
+      "end": 2720,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 2720,
+      "end": 2880,
+      "confidence": 0.98876953,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 2880,
+      "end": 2960,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "sheets.",
+      "start": 2960,
+      "end": 3280,
+      "confidence": 0.81640625,
+      "speaker": null
+    },
+    {
+      "text": "When",
+      "start": 3760,
+      "end": 4040,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "it",
+      "start": 4040,
+      "end": 4200,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "comes",
+      "start": 4200,
+      "end": 4360,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 4360,
+      "end": 4560,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "performance,",
+      "start": 4560,
+      "end": 4880,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 5120,
+      "end": 5400,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "believe",
+      "start": 5400,
+      "end": 5600,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 5600,
+      "end": 5800,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 5800,
+      "end": 5960,
+      "confidence": 0.99658203,
+      "speaker": null
+    },
+    {
+      "text": "inside",
+      "start": 5960,
+      "end": 6280,
+      "confidence": 0.99975586,
+      "speaker": null
+    },
+    {
+      "text": "out",
+      "start": 6280,
+      "end": 6480,
+      "confidence": 0.99560547,
+      "speaker": null
+    },
+    {
+      "text": "approach.",
+      "start": 6480,
+      "end": 6800,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "And",
+      "start": 7280,
+      "end": 7600,
+      "confidence": 0.99072266,
+      "speaker": null
+    },
+    {
+      "text": "for",
+      "start": 7600,
+      "end": 7760,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 7760,
+      "end": 7920,
+      "confidence": 0.99560547,
+      "speaker": null
+    },
+    {
+      "text": "long",
+      "start": 7920,
+      "end": 8160,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "games",
+      "start": 8160,
+      "end": 8440,
+      "confidence": 0.98876953,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 8440,
+      "end": 8680,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "have",
+      "start": 8680,
+      "end": 8840,
+      "confidence": 0.80615234,
+      "speaker": null
+    },
+    {
+      "text": "been",
+      "start": 8840,
+      "end": 9000,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "taking",
+      "start": 9000,
+      "end": 9200,
+      "confidence": 0.9863281,
+      "speaker": null
+    },
+    {
+      "text": "Dura",
+      "start": 9200,
+      "end": 9640,
+      "confidence": 0.8598633,
+      "speaker": null
+    },
+    {
+      "text": "excalibate",
+      "start": 9640,
+      "end": 10200,
+      "confidence": 0.5130005,
+      "speaker": null
+    },
+    {
+      "text": "performer",
+      "start": 10200,
+      "end": 10560,
+      "confidence": 0.7766113,
+      "speaker": null
+    },
+    {
+      "text": "capsules",
+      "start": 10560,
+      "end": 11040,
+      "confidence": 0.97961426,
+      "speaker": null
+    },
+    {
+      "text": "GE.",
+      "start": 11040,
+      "end": 11280,
+      "confidence": 0.6347656,
+      "speaker": null
+    },
+    {
+      "text": "It's",
+      "start": 11600,
+      "end": 11960,
+      "confidence": 0.9871419,
+      "speaker": null
+    },
+    {
+      "text": "made",
+      "start": 11960,
+      "end": 12120,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "with",
+      "start": 12120,
+      "end": 12320,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "100%",
+      "start": 12320,
+      "end": 12960,
+      "confidence": 0.89437,
+      "speaker": null
+    },
+    {
+      "text": "natural",
+      "start": 12960,
+      "end": 13360,
+      "confidence": 0.9996745,
+      "speaker": null
+    },
+    {
+      "text": "shilajal",
+      "start": 13360,
+      "end": 13920,
+      "confidence": 0.87578124,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 13920,
+      "end": 14000,
+      "confidence": 0.7910156,
+      "speaker": null
+    },
+    {
+      "text": "Ashwagandha.",
+      "start": 14000,
+      "end": 14800,
+      "confidence": 0.95486885,
+      "speaker": null
+    },
+    {
+      "text": "Trust",
+      "start": 14800,
+      "end": 15160,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "me,",
+      "start": 15160,
+      "end": 15360,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "it's",
+      "start": 15360,
+      "end": 15680,
+      "confidence": 0.9926758,
+      "speaker": null
+    },
+    {
+      "text": "my",
+      "start": 15680,
+      "end": 15800,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "secret",
+      "start": 15800,
+      "end": 16079,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 16079,
+      "end": 16400,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "consistent",
+      "start": 16400,
+      "end": 16960,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "stamina.",
+      "start": 16960,
+      "end": 17520,
+      "confidence": 0.9998372,
+      "speaker": null
+    },
+    {
+      "text": "After",
+      "start": 17520,
+      "end": 17840,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "eight",
+      "start": 17840,
+      "end": 18120,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "weeks",
+      "start": 18120,
+      "end": 18360,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 18360,
+      "end": 18520,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "this",
+      "start": 18520,
+      "end": 18720,
+      "confidence": 0.99560547,
+      "speaker": null
+    },
+    {
+      "text": "routine,",
+      "start": 18720,
+      "end": 19240,
+      "confidence": 0.9996745,
+      "speaker": null
+    },
+    {
+      "text": "my",
+      "start": 19240,
+      "end": 19560,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "endurance",
+      "start": 19560,
+      "end": 20120,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 20120,
+      "end": 20320,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "better",
+      "start": 20320,
+      "end": 20600,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "at",
+      "start": 20600,
+      "end": 20800,
+      "confidence": 0.99560547,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 20800,
+      "end": 20920,
+      "confidence": 0.9916992,
+      "speaker": null
+    },
+    {
+      "text": "gym.",
+      "start": 20920,
+      "end": 21280,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "Plus",
+      "start": 21280,
+      "end": 21680,
+      "confidence": 0.98999023,
+      "speaker": null
+    },
+    {
+      "text": "it",
+      "start": 21680,
+      "end": 21920,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "shows",
+      "start": 21920,
+      "end": 22240,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "up",
+      "start": 22240,
+      "end": 22400,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "when",
+      "start": 22400,
+      "end": 22640,
+      "confidence": 0.9926758,
+      "speaker": null
+    },
+    {
+      "text": "it",
+      "start": 22640,
+      "end": 22840,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "matters",
+      "start": 22840,
+      "end": 23160,
+      "confidence": 0.99975586,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 23160,
+      "end": 23320,
+      "confidence": 0.9794922,
+      "speaker": null
+    },
+    {
+      "text": "most.",
+      "start": 23320,
+      "end": 23600,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "But",
+      "start": 23840,
+      "end": 24160,
+      "confidence": 0.8852539,
+      "speaker": null
+    },
+    {
+      "text": "for",
+      "start": 24160,
+      "end": 24320,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 24320,
+      "end": 24440,
+      "confidence": 0.99316406,
+      "speaker": null
+    },
+    {
+      "text": "movements",
+      "start": 24440,
+      "end": 24800,
+      "confidence": 0.82421875,
+      "speaker": null
+    },
+    {
+      "text": "then",
+      "start": 24800,
+      "end": 25000,
+      "confidence": 0.9116211,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 25000,
+      "end": 25120,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "need",
+      "start": 25120,
+      "end": 25240,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "immediate",
+      "start": 25240,
+      "end": 25760,
+      "confidence": 0.87386066,
+      "speaker": null
+    },
+    {
+      "text": "control.",
+      "start": 25760,
+      "end": 26080,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "Durex",
+      "start": 26480,
+      "end": 26880,
+      "confidence": 0.80566406,
+      "speaker": null
+    },
+    {
+      "text": "Elevate",
+      "start": 26880,
+      "end": 27280,
+      "confidence": 0.9741211,
+      "speaker": null
+    },
+    {
+      "text": "Climax",
+      "start": 27280,
+      "end": 27600,
+      "confidence": 0.8260091,
+      "speaker": null
+    },
+    {
+      "text": "Xilia",
+      "start": 27600,
+      "end": 27960,
+      "confidence": 0.5588379,
+      "speaker": null
+    },
+    {
+      "text": "Spray",
+      "start": 27960,
+      "end": 28280,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 28280,
+      "end": 28440,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "your",
+      "start": 28440,
+      "end": 28600,
+      "confidence": 0.9951172,
+      "speaker": null
+    },
+    {
+      "text": "perfect",
+      "start": 28600,
+      "end": 28880,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "Bing",
+      "start": 28880,
+      "end": 29160,
+      "confidence": 0.9592285,
+      "speaker": null
+    },
+    {
+      "text": "map.",
+      "start": 29160,
+      "end": 29600,
+      "confidence": 0.90966797,
+      "speaker": null
+    },
+    {
+      "text": "Just",
+      "start": 29600,
+      "end": 29920,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "three",
+      "start": 29920,
+      "end": 30160,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "sprees,",
+      "start": 30160,
+      "end": 30880,
+      "confidence": 0.80167645,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 30880,
+      "end": 31160,
+      "confidence": 0.99609375,
+      "speaker": null
+    },
+    {
+      "text": "few",
+      "start": 31160,
+      "end": 31360,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "minutes",
+      "start": 31360,
+      "end": 31840,
+      "confidence": 0.99975586,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 31840,
+      "end": 32120,
+      "confidence": 0.9916992,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 32120,
+      "end": 32280,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "are",
+      "start": 32280,
+      "end": 32440,
+      "confidence": 0.74853516,
+      "speaker": null
+    },
+    {
+      "text": "ready",
+      "start": 32440,
+      "end": 32640,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "with",
+      "start": 32640,
+      "end": 32760,
+      "confidence": 0.9838867,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 32760,
+      "end": 32920,
+      "confidence": 0.4711914,
+      "speaker": null
+    },
+    {
+      "text": "performance",
+      "start": 32920,
+      "end": 33200,
+      "confidence": 0.98828125,
+      "speaker": null
+    },
+    {
+      "text": "worth",
+      "start": 33600,
+      "end": 33960,
+      "confidence": 0.70422363,
+      "speaker": null
+    },
+    {
+      "text": "remembering.",
+      "start": 33960,
+      "end": 34680,
+      "confidence": 0.98046875,
+      "speaker": null
+    },
+    {
+      "text": "With",
+      "start": 34680,
+      "end": 34960,
+      "confidence": 0.9970703,
+      "speaker": null
+    },
+    {
+      "text": "300",
+      "start": 34960,
+      "end": 35400,
+      "confidence": 0.9978,
+      "speaker": null
+    },
+    {
+      "text": "sprays",
+      "start": 35400,
+      "end": 35840,
+      "confidence": 0.98811847,
+      "speaker": null
+    },
+    {
+      "text": "per",
+      "start": 35840,
+      "end": 36040,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "bottle,",
+      "start": 36040,
+      "end": 36480,
+      "confidence": 0.99975586,
+      "speaker": null
+    },
+    {
+      "text": "this",
+      "start": 36480,
+      "end": 36800,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "pocket",
+      "start": 36800,
+      "end": 37240,
+      "confidence": 0.99450684,
+      "speaker": null
+    },
+    {
+      "text": "sized",
+      "start": 37240,
+      "end": 37560,
+      "confidence": 0.7307129,
+      "speaker": null
+    },
+    {
+      "text": "confidence",
+      "start": 37560,
+      "end": 38080,
+      "confidence": 0.99975586,
+      "speaker": null
+    },
+    {
+      "text": "booster",
+      "start": 38080,
+      "end": 38640,
+      "confidence": 0.9991862,
+      "speaker": null
+    },
+    {
+      "text": "goes",
+      "start": 38640,
+      "end": 38920,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 38920,
+      "end": 39120,
+      "confidence": 0.9970703,
+      "speaker": null
+    },
+    {
+      "text": "long",
+      "start": 39120,
+      "end": 39400,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "way.",
+      "start": 39400,
+      "end": 39760,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "So",
+      "start": 39840,
+      "end": 40120,
+      "confidence": 0.99609375,
+      "speaker": null
+    },
+    {
+      "text": "head",
+      "start": 40120,
+      "end": 40320,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "towards",
+      "start": 40320,
+      "end": 40720,
+      "confidence": 0.9968262,
+      "speaker": null
+    },
+    {
+      "text": "durexindia.com",
+      "start": 40720,
+      "end": 41880,
+      "confidence": 0.98778,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 41880,
+      "end": 42120,
+      "confidence": 0.99560547,
+      "speaker": null
+    },
+    {
+      "text": "get",
+      "start": 42120,
+      "end": 42280,
+      "confidence": 0.6689453,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 42280,
+      "end": 42519,
+      "confidence": 0.76416016,
+      "speaker": null
+    },
+    {
+      "text": "perfect",
+      "start": 42519,
+      "end": 43000,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "duo",
+      "start": 43000,
+      "end": 43360,
+      "confidence": 0.9930013,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 43360,
+      "end": 43560,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "take",
+      "start": 43560,
+      "end": 43720,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "your",
+      "start": 43720,
+      "end": 43880,
+      "confidence": 0.98779297,
+      "speaker": null
+    },
+    {
+      "text": "things",
+      "start": 43880,
+      "end": 44080,
+      "confidence": 0.9946289,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 44080,
+      "end": 44280,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "next",
+      "start": 44280,
+      "end": 44480,
+      "confidence": 0.9970703,
+      "speaker": null
+    },
+    {
+      "text": "levels.",
+      "start": 44480,
+      "end": 44960,
+      "confidence": 0.9616699,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.9533692,
+  "audio_duration": 46,
+  "punctuate": true,
+  "format_text": true,
+  "dual_channel": null,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 583896,
+  "token_id": 587134
+}

@@ -1,0 +1,42 @@
+# === GLOBAL IGNORE RULES ===
+__pycache__/
+*.py[cod]
+*.env
+*.venv/
+*.log
+*.sqlite3
+.DS_Store
+.env*
+*.local
+.vscode/
+.idea/
+*.swp
+
+# === FRONTEND: NEXT.JS (React) ===
+# Ignore Next.js build output
+/frontend/.next/
+/frontend/out/
+/frontend/node_modules/
+/frontend/.env*
+/frontend/.turbo/
+/frontend/.vercel/
+/frontend/package-lock.json
+/frontend/yarn.lock
+/frontend/pnpm-lock.yaml
+
+# === BACKEND: FASTAPI (Python) ===
+# Python virtual environments
+/backend/venv/
+/backend/env/
+/backend/.env*
+/backend/__pycache__/
+/backend/.mypy_cache/
+/backend/.pytest_cache/
+/backend/.coverage
+/backend/instance/
+/backend/htmlcov/
+/backend/*.db
+
+# === OS Specific ===
+Thumbs.db
+ehthumbs.db
