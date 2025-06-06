@@ -55,4 +55,3 @@ async def transcribe_video(file: UploadFile = File(...)):
 
     return JSONResponse(content=result)
 
-@app.post("/add-captions")

@@ -1,0 +1,10 @@
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: ClusterStyle1,Montserrat,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,20,20,30,1
+Style: ClusterStyle2,Sans-serif,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,20,20,50,1
+Style: ClusterStyle3,Montserrat,60,&H00FFFF00,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,2,8,20,20,25,1
+Style: ClusterStyle4,Poppins,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,2,20,20,100,1
+Style: ClusterStyle5,Arial,40,&H00FFFF00,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,0,0,6,20,20,10,1
+Style: ClusterStyle6,Montserrat,48,&H008ED100,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.0,0,8,20,20,50,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text

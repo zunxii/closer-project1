@@ -1,0 +1,1069 @@
+{
+  "Gym_920": {
+    "font_color": "#a28973",
+    "position": "\\pos(239,1462)",
+    "font_size_proxy": 100,
+    "bbox": [
+      39,
+      1412,
+      400,
+      100
+    ]
+  },
+  "joint_1280": {
+    "font_color": "#b89477",
+    "position": "\\pos(266,1532)",
+    "font_size_proxy": 100,
+    "bbox": [
+      66,
+      1482,
+      400,
+      100
+    ]
+  },
+  "Hourglass_2160": {
+    "font_color": "#b07c59",
+    "position": "\\pos(566,1595)",
+    "font_size_proxy": 100,
+    "bbox": [
+      366,
+      1545,
+      400,
+      100
+    ]
+  },
+  "figure_2440": {
+    "font_color": "#8c6e4d",
+    "position": "\\pos(247,1537)",
+    "font_size_proxy": 100,
+    "bbox": [
+      47,
+      1487,
+      400,
+      100
+    ]
+  },
+  "Banana_2760": {
+    "font_color": "#887660",
+    "position": "\\pos(236,1474)",
+    "font_size_proxy": 100,
+    "bbox": [
+      36,
+      1424,
+      400,
+      100
+    ]
+  },
+  "Ki_2960": {
+    "font_color": "#e2e2e6",
+    "position": "\\pos(596,1007)",
+    "font_size_proxy": 100,
+    "bbox": [
+      396,
+      957,
+      400,
+      100
+    ]
+  },
+  "Le_3120": {
+    "font_color": "#b09380",
+    "position": "\\pos(766,1318)",
+    "font_size_proxy": 100,
+    "bbox": [
+      566,
+      1268,
+      400,
+      100
+    ]
+  },
+  "Pad_3520": {
+    "font_color": "#9f9075",
+    "position": "\\pos(217,364)",
+    "font_size_proxy": 100,
+    "bbox": [
+      17,
+      314,
+      400,
+      100
+    ]
+  },
+  "body_4160": {
+    "font_color": "#9f836e",
+    "position": "\\pos(465,473)",
+    "font_size_proxy": 100,
+    "bbox": [
+      265,
+      423,
+      400,
+      100
+    ]
+  },
+  "Permanent_5320": {
+    "font_color": "#3d372f",
+    "position": "\\pos(706,774)",
+    "font_size_proxy": 100,
+    "bbox": [
+      506,
+      724,
+      400,
+      100
+    ]
+  },
+  "resident_5720": {
+    "font_color": "#625c4c",
+    "position": "\\pos(653,631)",
+    "font_size_proxy": 100,
+    "bbox": [
+      453,
+      581,
+      400,
+      100
+    ]
+  },
+  "Banati_6240": {
+    "font_color": "#cec6a1",
+    "position": "\\pos(531,1488)",
+    "font_size_proxy": 100,
+    "bbox": [
+      331,
+      1438,
+      400,
+      100
+    ]
+  },
+  "Hai_6480": {
+    "font_color": "#c2b0a3",
+    "position": "\\pos(286,1730)",
+    "font_size_proxy": 100,
+    "bbox": [
+      86,
+      1680,
+      400,
+      100
+    ]
+  },
+  "Hahle_6760": {
+    "font_color": "#8a8683",
+    "position": "\\pos(869,50)",
+    "font_size_proxy": 100,
+    "bbox": [
+      669,
+      0,
+      400,
+      100
+    ]
+  },
+  "Wala_7120": {
+    "font_color": "#807e7c",
+    "position": "\\pos(769,215)",
+    "font_size_proxy": 100,
+    "bbox": [
+      569,
+      165,
+      400,
+      100
+    ]
+  },
+  "Creatine_7560": {
+    "font_color": "#7d7c7b",
+    "position": "\\pos(442,489)",
+    "font_size_proxy": 100,
+    "bbox": [
+      242,
+      439,
+      400,
+      100
+    ]
+  },
+  "Total_7920": {
+    "font_color": "#949089",
+    "position": "\\pos(873,404)",
+    "font_size_proxy": 100,
+    "bbox": [
+      673,
+      354,
+      400,
+      100
+    ]
+  },
+  "waste_8400": {
+    "font_color": "#876753",
+    "position": "\\pos(880,1053)",
+    "font_size_proxy": 100,
+    "bbox": [
+      680,
+      1003,
+      400,
+      100
+    ]
+  },
+  "Clumpy_9120": {
+    "font_color": "#867f79",
+    "position": "\\pos(723,130)",
+    "font_size_proxy": 100,
+    "bbox": [
+      523,
+      80,
+      400,
+      100
+    ]
+  },
+  "Yuck._9560": {
+    "font_color": "#9a948e",
+    "position": "\\pos(690,378)",
+    "font_size_proxy": 100,
+    "bbox": [
+      490,
+      328,
+      400,
+      100
+    ]
+  },
+  "Taste_10000": {
+    "font_color": "#434033",
+    "position": "\\pos(357,262)",
+    "font_size_proxy": 100,
+    "bbox": [
+      157,
+      212,
+      400,
+      100
+    ]
+  },
+  "or_10240": {
+    "font_color": "#634e45",
+    "position": "\\pos(661,1503)",
+    "font_size_proxy": 100,
+    "bbox": [
+      461,
+      1453,
+      400,
+      100
+    ]
+  },
+  "results_10560": {
+    "font_color": "#846053",
+    "position": "\\pos(236,1301)",
+    "font_size_proxy": 100,
+    "bbox": [
+      36,
+      1251,
+      400,
+      100
+    ]
+  },
+  "zero._11360": {
+    "font_color": "#976a55",
+    "position": "\\pos(356,1785)",
+    "font_size_proxy": 100,
+    "bbox": [
+      156,
+      1735,
+      400,
+      100
+    ]
+  },
+  "But_11720": {
+    "font_color": "#664333",
+    "position": "\\pos(529,1565)",
+    "font_size_proxy": 100,
+    "bbox": [
+      329,
+      1515,
+      400,
+      100
+    ]
+  },
+  "then_11880": {
+    "font_color": "#6a4837",
+    "position": "\\pos(526,1566)",
+    "font_size_proxy": 100,
+    "bbox": [
+      326,
+      1516,
+      400,
+      100
+    ]
+  },
+  "tried_12280": {
+    "font_color": "#694837",
+    "position": "\\pos(553,1545)",
+    "font_size_proxy": 100,
+    "bbox": [
+      353,
+      1495,
+      400,
+      100
+    ]
+  },
+  "this_12480": {
+    "font_color": "#694737",
+    "position": "\\pos(551,1559)",
+    "font_size_proxy": 100,
+    "bbox": [
+      351,
+      1509,
+      400,
+      100
+    ]
+  },
+  "Muscle_12840": {
+    "font_color": "#644231",
+    "position": "\\pos(441,1609)",
+    "font_size_proxy": 100,
+    "bbox": [
+      241,
+      1559,
+      400,
+      100
+    ]
+  },
+  "Blaze_13200": {
+    "font_color": "#6e7567",
+    "position": "\\pos(810,1448)",
+    "font_size_proxy": 100,
+    "bbox": [
+      610,
+      1398,
+      400,
+      100
+    ]
+  },
+  "cramp_13560": {
+    "font_color": "#fefefe",
+    "position": "\\pos(445,470)",
+    "font_size_proxy": 100,
+    "bbox": [
+      245,
+      420,
+      400,
+      100
+    ]
+  },
+  "and_13760": {
+    "font_color": "#b39b63",
+    "position": "\\pos(766,52)",
+    "font_size_proxy": 100,
+    "bbox": [
+      566,
+      2,
+      400,
+      100
+    ]
+  },
+  "I've_13960": {
+    "font_color": "#766055",
+    "position": "\\pos(584,759)",
+    "font_size_proxy": 100,
+    "bbox": [
+      384,
+      709,
+      400,
+      100
+    ]
+  },
+  "been_14080": {
+    "font_color": "#5c4f4e",
+    "position": "\\pos(389,1334)",
+    "font_size_proxy": 100,
+    "bbox": [
+      189,
+      1284,
+      400,
+      100
+    ]
+  },
+  "using_14280": {
+    "font_color": "#644a37",
+    "position": "\\pos(880,536)",
+    "font_size_proxy": 100,
+    "bbox": [
+      680,
+      486,
+      400,
+      100
+    ]
+  },
+  "it_14520": {
+    "font_color": "#728a6c",
+    "position": "\\pos(783,62)",
+    "font_size_proxy": 100,
+    "bbox": [
+      583,
+      12,
+      400,
+      100
+    ]
+  },
+  "for_14720": {
+    "font_color": "#454e43",
+    "position": "\\pos(368,887)",
+    "font_size_proxy": 100,
+    "bbox": [
+      168,
+      837,
+      400,
+      100
+    ]
+  },
+  "three_15000": {
+    "font_color": "#bac7d9",
+    "position": "\\pos(837,149)",
+    "font_size_proxy": 100,
+    "bbox": [
+      637,
+      99,
+      400,
+      100
+    ]
+  },
+  "weeks_15360": {
+    "font_color": "#bac7d9",
+    "position": "\\pos(841,146)",
+    "font_size_proxy": 100,
+    "bbox": [
+      641,
+      96,
+      400,
+      100
+    ]
+  },
+  "and_15680": {
+    "font_color": "#bac7d9",
+    "position": "\\pos(861,140)",
+    "font_size_proxy": 100,
+    "bbox": [
+      661,
+      90,
+      400,
+      100
+    ]
+  },
+  "generally_16240": {
+    "font_color": "#c0cbda",
+    "position": "\\pos(847,131)",
+    "font_size_proxy": 100,
+    "bbox": [
+      647,
+      81,
+      400,
+      100
+    ]
+  },
+  "it's_16520": {
+    "font_color": "#8d7336",
+    "position": "\\pos(575,1205)",
+    "font_size_proxy": 100,
+    "bbox": [
+      375,
+      1155,
+      400,
+      100
+    ]
+  },
+  "the_16680": {
+    "font_color": "#8a7442",
+    "position": "\\pos(574,1131)",
+    "font_size_proxy": 100,
+    "bbox": [
+      374,
+      1081,
+      400,
+      100
+    ]
+  },
+  "only_16920": {
+    "font_color": "#c8d0da",
+    "position": "\\pos(861,125)",
+    "font_size_proxy": 100,
+    "bbox": [
+      661,
+      75,
+      400,
+      100
+    ]
+  },
+  "creatine_17600": {
+    "font_color": "#babdc0",
+    "position": "\\pos(756,187)",
+    "font_size_proxy": 100,
+    "bbox": [
+      556,
+      137,
+      400,
+      100
+    ]
+  },
+  "that_17840": {
+    "font_color": "#a3a2a1",
+    "position": "\\pos(755,191)",
+    "font_size_proxy": 100,
+    "bbox": [
+      555,
+      141,
+      400,
+      100
+    ]
+  },
+  "hasn't_18200": {
+    "font_color": "#9f9c9c",
+    "position": "\\pos(774,194)",
+    "font_size_proxy": 100,
+    "bbox": [
+      574,
+      144,
+      400,
+      100
+    ]
+  },
+  "disappointed_18760": {
+    "font_color": "#cad6de",
+    "position": "\\pos(213,580)",
+    "font_size_proxy": 100,
+    "bbox": [
+      13,
+      530,
+      400,
+      100
+    ]
+  },
+  "me_19000": {
+    "font_color": "#85321f",
+    "position": "\\pos(828,890)",
+    "font_size_proxy": 100,
+    "bbox": [
+      628,
+      840,
+      400,
+      100
+    ]
+  },
+  "just_19480": {
+    "font_color": "#8d4135",
+    "position": "\\pos(395,891)",
+    "font_size_proxy": 100,
+    "bbox": [
+      195,
+      841,
+      400,
+      100
+    ]
+  },
+  "three_19720": {
+    "font_color": "#9f2f1d",
+    "position": "\\pos(200,1813)",
+    "font_size_proxy": 100,
+    "bbox": [
+      0,
+      1763,
+      400,
+      100
+    ]
+  },
+  "weeks._20000": {
+    "font_color": "#9e2f1e",
+    "position": "\\pos(207,1832)",
+    "font_size_proxy": 100,
+    "bbox": [
+      7,
+      1782,
+      400,
+      100
+    ]
+  },
+  "Results_20600": {
+    "font_color": "#8b9863",
+    "position": "\\pos(262,1733)",
+    "font_size_proxy": 100,
+    "bbox": [
+      62,
+      1683,
+      400,
+      100
+    ]
+  },
+  "sickness_21040": {
+    "font_color": "#8e9253",
+    "position": "\\pos(217,1370)",
+    "font_size_proxy": 100,
+    "bbox": [
+      17,
+      1320,
+      400,
+      100
+    ]
+  },
+  "start_21280": {
+    "font_color": "#99a76d",
+    "position": "\\pos(201,1761)",
+    "font_size_proxy": 100,
+    "bbox": [
+      1,
+      1711,
+      400,
+      100
+    ]
+  },
+  "Hoga_21680": {
+    "font_color": "#704d41",
+    "position": "\\pos(387,1234)",
+    "font_size_proxy": 100,
+    "bbox": [
+      187,
+      1184,
+      400,
+      100
+    ]
+  },
+  "Hai_21840": {
+    "font_color": "#010103",
+    "position": "\\pos(304,60)",
+    "font_size_proxy": 100,
+    "bbox": [
+      104,
+      10,
+      400,
+      100
+    ]
+  },
+  "Muscles_22320": {
+    "font_color": "#010104",
+    "position": "\\pos(200,285)",
+    "font_size_proxy": 100,
+    "bbox": [
+      0,
+      235,
+      400,
+      100
+    ]
+  },
+  "visibly_22880": {
+    "font_color": "#010002",
+    "position": "\\pos(811,284)",
+    "font_size_proxy": 100,
+    "bbox": [
+      611,
+      234,
+      400,
+      100
+    ]
+  },
+  "fuller._23400": {
+    "font_color": "#694448",
+    "position": "\\pos(295,1172)",
+    "font_size_proxy": 100,
+    "bbox": [
+      95,
+      1122,
+      400,
+      100
+    ]
+  },
+  "Recovery_24080": {
+    "font_color": "#ae4f40",
+    "position": "\\pos(329,1522)",
+    "font_size_proxy": 100,
+    "bbox": [
+      129,
+      1472,
+      400,
+      100
+    ]
+  },
+  "Next_24400": {
+    "font_color": "#977b71",
+    "position": "\\pos(239,1140)",
+    "font_size_proxy": 100,
+    "bbox": [
+      39,
+      1090,
+      400,
+      100
+    ]
+  },
+  "level_24680": {
+    "font_color": "#494250",
+    "position": "\\pos(689,67)",
+    "font_size_proxy": 100,
+    "bbox": [
+      489,
+      17,
+      400,
+      100
+    ]
+  },
+  "Fast_25080": {
+    "font_color": "#a36175",
+    "position": "\\pos(679,67)",
+    "font_size_proxy": 100,
+    "bbox": [
+      479,
+      17,
+      400,
+      100
+    ]
+  },
+  "or_25440": {
+    "font_color": "#b99a84",
+    "position": "\\pos(463,213)",
+    "font_size_proxy": 100,
+    "bbox": [
+      263,
+      163,
+      400,
+      100
+    ]
+  },
+  "next_26000": {
+    "font_color": "#767978",
+    "position": "\\pos(444,213)",
+    "font_size_proxy": 100,
+    "bbox": [
+      244,
+      163,
+      400,
+      100
+    ]
+  },
+  "intense_26880": {
+    "font_color": "#5f6364",
+    "position": "\\pos(204,221)",
+    "font_size_proxy": 100,
+    "bbox": [
+      4,
+      171,
+      400,
+      100
+    ]
+  },
+  "soreness_27440": {
+    "font_color": "#5e6263",
+    "position": "\\pos(219,221)",
+    "font_size_proxy": 100,
+    "bbox": [
+      19,
+      171,
+      400,
+      100
+    ]
+  },
+  "Way_27950": {
+    "font_color": "#9a837b",
+    "position": "\\pos(862,1489)",
+    "font_size_proxy": 100,
+    "bbox": [
+      662,
+      1439,
+      400,
+      100
+    ]
+  },
+  "less_28270": {
+    "font_color": "#747777",
+    "position": "\\pos(433,220)",
+    "font_size_proxy": 100,
+    "bbox": [
+      233,
+      170,
+      400,
+      100
+    ]
+  },
+  "like_28710": {
+    "font_color": "#bfab9c",
+    "position": "\\pos(293,1598)",
+    "font_size_proxy": 100,
+    "bbox": [
+      93,
+      1548,
+      400,
+      100
+    ]
+  },
+  "I_28870": {
+    "font_color": "#c0b9be",
+    "position": "\\pos(495,1060)",
+    "font_size_proxy": 100,
+    "bbox": [
+      295,
+      1010,
+      400,
+      100
+    ]
+  },
+  "was_29110": {
+    "font_color": "#534531",
+    "position": "\\pos(699,824)",
+    "font_size_proxy": 100,
+    "bbox": [
+      499,
+      774,
+      400,
+      100
+    ]
+  },
+  "finally_29590": {
+    "font_color": "#a58f80",
+    "position": "\\pos(323,1495)",
+    "font_size_proxy": 100,
+    "bbox": [
+      123,
+      1445,
+      400,
+      100
+    ]
+  },
+  "doing_29870": {
+    "font_color": "#544129",
+    "position": "\\pos(870,803)",
+    "font_size_proxy": 100,
+    "bbox": [
+      670,
+      753,
+      400,
+      100
+    ]
+  },
+  "everything_30350": {
+    "font_color": "#bbaaa6",
+    "position": "\\pos(571,1369)",
+    "font_size_proxy": 100,
+    "bbox": [
+      371,
+      1319,
+      400,
+      100
+    ]
+  },
+  "right._30750": {
+    "font_color": "#c6c1c5",
+    "position": "\\pos(565,995)",
+    "font_size_proxy": 100,
+    "bbox": [
+      365,
+      945,
+      400,
+      100
+    ]
+  },
+  "boring._31390": {
+    "font_color": "#73504f",
+    "position": "\\pos(734,104)",
+    "font_size_proxy": 100,
+    "bbox": [
+      534,
+      54,
+      400,
+      100
+    ]
+  },
+  "Tasteless_31910": {
+    "font_color": "#6a5833",
+    "position": "\\pos(414,364)",
+    "font_size_proxy": 100,
+    "bbox": [
+      214,
+      314,
+      400,
+      100
+    ]
+  },
+  "powders_32350": {
+    "font_color": "#70472c",
+    "position": "\\pos(807,354)",
+    "font_size_proxy": 100,
+    "bbox": [
+      607,
+      304,
+      400,
+      100
+    ]
+  },
+  "five_33230": {
+    "font_color": "#896c3e",
+    "position": "\\pos(297,1229)",
+    "font_size_proxy": 100,
+    "bbox": [
+      97,
+      1179,
+      400,
+      100
+    ]
+  },
+  "amazing_33590": {
+    "font_color": "#6a4e2c",
+    "position": "\\pos(530,1549)",
+    "font_size_proxy": 100,
+    "bbox": [
+      330,
+      1499,
+      400,
+      100
+    ]
+  },
+  "flavours._34110": {
+    "font_color": "#765638",
+    "position": "\\pos(447,1550)",
+    "font_size_proxy": 100,
+    "bbox": [
+      247,
+      1500,
+      400,
+      100
+    ]
+  },
+  "Trust_35190": {
+    "font_color": "#afaba5",
+    "position": "\\pos(564,275)",
+    "font_size_proxy": 100,
+    "bbox": [
+      364,
+      225,
+      400,
+      100
+    ]
+  },
+  "me,_35350": {
+    "font_color": "#b2afa9",
+    "position": "\\pos(324,174)",
+    "font_size_proxy": 100,
+    "bbox": [
+      124,
+      124,
+      400,
+      100
+    ]
+  },
+  "I've_35670": {
+    "font_color": "#b2afaa",
+    "position": "\\pos(322,182)",
+    "font_size_proxy": 100,
+    "bbox": [
+      122,
+      132,
+      400,
+      100
+    ]
+  },
+  "tried_35990": {
+    "font_color": "#b2ada7",
+    "position": "\\pos(557,282)",
+    "font_size_proxy": 100,
+    "bbox": [
+      357,
+      232,
+      400,
+      100
+    ]
+  },
+  "everything._36350": {
+    "font_color": "#b9b4ac",
+    "position": "\\pos(601,517)",
+    "font_size_proxy": 100,
+    "bbox": [
+      401,
+      467,
+      400,
+      100
+    ]
+  },
+  "Muscle_36950": {
+    "font_color": "#b3b0aa",
+    "position": "\\pos(570,291)",
+    "font_size_proxy": 100,
+    "bbox": [
+      370,
+      241,
+      400,
+      100
+    ]
+  },
+  "glaze_37310": {
+    "font_color": "#b2aea9",
+    "position": "\\pos(547,285)",
+    "font_size_proxy": 100,
+    "bbox": [
+      347,
+      235,
+      400,
+      100
+    ]
+  },
+  "Kriyamp_37710": {
+    "font_color": "#b7b4ac",
+    "position": "\\pos(584,518)",
+    "font_size_proxy": 100,
+    "bbox": [
+      384,
+      468,
+      400,
+      100
+    ]
+  },
+  "is_37830": {
+    "font_color": "#b3b0ac",
+    "position": "\\pos(329,198)",
+    "font_size_proxy": 100,
+    "bbox": [
+      129,
+      148,
+      400,
+      100
+    ]
+  },
+  "the_37990": {
+    "font_color": "#b3b1ad",
+    "position": "\\pos(313,190)",
+    "font_size_proxy": 100,
+    "bbox": [
+      113,
+      140,
+      400,
+      100
+    ]
+  },
+  "real_38190": {
+    "font_color": "#b4b2ad",
+    "position": "\\pos(307,189)",
+    "font_size_proxy": 100,
+    "bbox": [
+      107,
+      139,
+      400,
+      100
+    ]
+  },
+  "deal_38510": {
+    "font_color": "#b3b1ac",
+    "position": "\\pos(317,187)",
+    "font_size_proxy": 100,
+    "bbox": [
+      117,
+      137,
+      400,
+      100
+    ]
+  },
+  "shop_38910": {
+    "font_color": "#b2aea9",
+    "position": "\\pos(543,284)",
+    "font_size_proxy": 100,
+    "bbox": [
+      343,
+      234,
+      400,
+      100
+    ]
+  },
+  "now._39230": {
+    "font_color": "#b3b0ac",
+    "position": "\\pos(312,185)",
+    "font_size_proxy": 100,
+    "bbox": [
+      112,
+      135,
+      400,
+      100
+    ]
+  }
+}

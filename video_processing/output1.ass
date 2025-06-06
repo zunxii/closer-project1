@@ -1,0 +1,50 @@
+[Script Info]
+Title: Advanced Multi-Style Generated Subtitles
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Style1,Poppins,50,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Style2,Poppins,65,&H0000E9FF,&H000000FF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Style3,Arial,50,&H005FF1FF,&H000000FF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Style4,Montserrat,65,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Style5,Arial,50,&H0000EBFF,&H000000FF,&H00000000,&H64000000,-1,1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Accent1,Poppins,55,&H0000FFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,120,120,2,0,1,3,1,2,20,20,20,1
+Style: Accent2,Arial,45,&H00FF00FF,&H000000FF,&H00000000,&H64000000,0,1,0,0,90,90,1,0,1,2,0,2,20,20,20,1
+Style: Glow,Montserrat,60,&H00FFFF00,&H000000FF,&H0000FFFF,&H64000000,-1,0,0,0,110,110,3,0,1,4,2,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.08,0:00:01.92,Style1,,0,0,0,,{\c&H00FFFFFF&}Your stamina {\c&H0000E9FF&}in\N{\c&H005FF1FF&}the streets
+Dialogue: 0,0:00:01.92,0:00:02.96,Style2,,0,0,0,,{\c&H0000E9FF&}should {\c&H00FFFFFF&}match\N{\c&H0000EBFF&}your stamina {\c&H00FFFF00&}in
+Dialogue: 0,0:00:02.96,0:00:04.55,Style3,,0,0,0,,{\c&H005FF1FF&}the {\c&H00FF00FF&\b1}sheets{\b0}.\N{\c&H00FFFFFF&}When it {\c&H0000FFFF&\i1}comes{\i0}
+Dialogue: 0,0:00:04.55,0:00:05.96,Style4,,0,0,0,,{\c&H00FFFFFF&}to {\c&H0000E9FF&\fs70}performance{\fs65}\,\N{\c&H005FF1FF&}I {\c&H00FFFF00&\b1}believe{\b0} in
+Dialogue: 0,0:00:05.96,0:00:07.75,Style5,,0,0,0,,{\c&H0000EBFF&}the {\c&H00FFFFFF&\u1}inside{\u0} {\c&H0000FFFF&}out\N{\c&H00FF00FF&}approach. {\c&H00FFFF00&\i1}And{\i0}
+Dialogue: 0,0:00:07.75,0:00:09.00,Style1,,0,0,0,,{\c&H00FFFFFF&}for the {\c&H0000E9FF&\fs60}long{\fs50}\N{\c&H005FF1FF&\b1}games{\b0} I {\c&H00FFFF00&}have
+Dialogue: 0,0:00:09.00,0:00:10.56,Style2,,0,0,0,,{\c&H0000E9FF&}been {\c&H00FFFFFF&\i1}taking{\i0}\N{\c&H00FFFF00&\b1}Dura{\b0} {\c&H0000FFFF&}excalibate
+Dialogue: 0,0:00:10.56,0:00:11.96,Style3,,0,0,0,,{\c&H005FF1FF&\fs60}performer{\fs50}\N{\c&H00FF00FF&\b1}capsules{\b0} {\c&H00FFFFFF&}GE.
+Dialogue: 0,0:00:11.96,0:00:13.92,Style4,,0,0,0,,{\c&H00FFFFFF&}It's {\c&H0000E9FF&\i1}made{\i0} with\N{\c&H00FFFF00&\b1\fs75}100%{\b0\fs65} {\c&H005FF1FF&}natural
+Dialogue: 0,0:00:13.92,0:00:15.16,Style5,,0,0,0,,{\c&H0000EBFF&\u1}shilajal{\u0} {\c&H00FFFFFF&}and\N{\c&H0000FFFF&\i1\b1}Ashwagandha{\i0\b0}.
+Dialogue: 0,0:00:15.16,0:00:16.96,Style1,,0,0,0,,{\c&H00FFFFFF&\fs60}Trust{\fs50} {\c&H00FF00FF&}me\, it's\N{\c&H0000E9FF&}my {\c&H00FFFF00&\b1\i1}secret{\b0\i0} to
+Dialogue: 0,0:00:16.96,0:00:18.12,Style2,,0,0,0,,{\c&H0000E9FF&\u1}consistent{\u0}\N{\c&H005FF1FF&\fs75}stamina{\fs65}. {\c&H00FFFFFF&}After
+Dialogue: 0,0:00:18.12,0:00:19.55,Style3,,0,0,0,,{\c&H005FF1FF&\b1}eight{\b0} {\c&H00FFFF00&}weeks of\N{\c&H00FF00FF&\i1}this{\i0} {\c&H00FFFFFF&}routine\,
+Dialogue: 0,0:00:19.55,0:00:21.28,Style4,,0,0,0,,{\c&H00FFFFFF&}my {\c&H0000FFFF&\fs75\b1}endurance{\fs65\b0} is\N{\c&H0000E9FF&}better at the
+Dialogue: 0,0:00:21.28,0:00:22.83,Style5,,0,0,0,,{\c&H0000EBFF&\u1\b1}gym{\u0\b0}. {\c&H00FFFFFF&}Plus it\N{\c&H00FFFF00&\i1}shows{\i0} {\c&H005FF1FF&}up when
+Dialogue: 0,0:00:22.83,0:00:24.44,Style1,,0,0,0,,{\c&H00FFFFFF&}it {\c&H00FF00FF&\fs60\b1}matters{\fs50\b0} the\N{\c&H0000E9FF&\i1}most{\i0}. {\c&H00FFFF00&}But for
+Dialogue: 0,0:00:24.44,0:00:25.76,Style2,,0,0,0,,{\c&H0000E9FF&}the {\c&H005FF1FF&\u1}movements{\u0}\N{\c&H00FFFFFF&}then you {\c&H0000FFFF&\b1}need{\b0}
+Dialogue: 0,0:00:25.76,0:00:27.28,Style3,,0,0,0,,{\c&H005FF1FF&\fs60\i1}immediate{\fs50\i0}\N{\c&H00FFFF00&\b1}control{\b0}. {\c&H00FF00FF&}Durex
+Dialogue: 0,0:00:27.28,0:00:28.60,Style4,,0,0,0,,{\c&H00FFFFFF&\u1}Elevate{\u0} {\c&H0000E9FF&\fs75}Climax{\fs65}\N{\c&H005FF1FF&\b1\i1}Xilia{\b0\i0} {\c&H00FFFF00&}Spray is
+Dialogue: 0,0:00:28.60,0:00:30.16,Style5,,0,0,0,,{\c&H0000EBFF&}your {\c&H00FFFFFF&\b1}perfect{\b0}\N{\c&H0000FFFF&\fs60\u1}Bing{\fs50\u0} {\c&H00FF00FF&\i1}map{\i0}. {\c&H00FFFF00&}Just
+Dialogue: 0,0:00:30.16,0:00:32.28,Style1,,0,0,0,,{\c&H00FFFFFF&\b1\fs60}three{\b0\fs50} {\c&H005FF1FF&}sprees\, {\c&H0000E9FF&}a\N{\c&H00FFFF00&\i1}few{\i0} {\c&H00FF00FF&}minutes and
+Dialogue: 0,0:00:32.28,0:00:33.20,Style2,,0,0,0,,{\c&H0000E9FF&}you are {\c&H00FFFFFF&\b1\u1}ready{\b0\u0}\N{\c&H005FF1FF&}with a
+Dialogue: 0,0:00:33.60,0:00:34.67,Style3,,0,0,0,,{\c&H005FF1FF&\fs65\i1}performance{\fs50\i0}\N{\c&H00FFFF00&\b1}worth{\b0}
+Dialogue: 0,0:00:34.67,0:00:36.03,Style4,,0,0,0,,{\c&H00FFFFFF&\u1}remembering{\u0}.\N{\c&H0000E9FF&}With {\c&H00FF00FF&\b1\fs75}300{\b0\fs65} {\c&H005FF1FF&}sprays
+Dialogue: 0,0:00:36.03,0:00:37.56,Style5,,0,0,0,,{\c&H0000EBFF&}per {\c&H00FFFFFF&\i1}bottle{\i0}\,\N{\c&H00FFFF00&\b1}this{\b0} {\c&H0000FFFF&\u1}pocket{\u0}
+Dialogue: 0,0:00:37.56,0:00:38.64,Style1,,0,0,0,,{\c&H00FFFFFF&\fs60}sized{\fs50}\N{\c&H005FF1FF&\b1\i1}confidence{\b0\i0}
+Dialogue: 0,0:00:38.64,0:00:40.32,Style2,,0,0,0,,{\c&H0000E9FF&\u1}booster{\u0} {\c&H00FFFFFF&}goes a\N{\c&H00FFFF00&\b1\fs70}long{\b0\fs65} {\c&H005FF1FF&}way. {\c&H00FF00FF&\i1}So{\i0}
+Dialogue: 0,0:00:40.32,0:00:42.11,Style3,,0,0,0,,{\c&H005FF1FF&}head {\c&H00FFFFFF&\i1}towards{\i0}\N{\c&H0000FFFF&\b1\u1}durexindia.com{\b0\u0}
+Dialogue: 0,0:00:42.11,0:00:43.71,Style4,,0,0,0,,{\c&H00FFFFFF&}and {\c&H0000E9FF&\b1}get{\b0} the\N{\c&H00FFFF00&\fs75\i1}perfect{\fs65\i0} {\c&H005FF1FF&\u1}duo{\u0} and
+Dialogue: 0,0:00:43.71,0:00:44.96,Style5,,0,0,0,,{\c&H0000EBFF&\b1}take{\b0} {\c&H00FFFFFF&}your\N{\c&H00FF00FF&\i1\u1\fs60}things{\i0\u0\fs50} to {\c&H00FFFF00&\b1}next{\b0}

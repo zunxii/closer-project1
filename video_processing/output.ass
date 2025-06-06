@@ -1,0 +1,48 @@
+[Script Info]
+Title: Generated Subtitles
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Style1,sans-serif,50,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Style2,sans-serif,50,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Style3,sans-serif,65,&H0000FFFF,&H000000FF,&H00000000,&H64000000,-1,1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Style4,sans-serif,35,&H00008000,&H000000FF,&H00000000,&H64000000,-1,1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Style5,sans-serif,35,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.08,0:00:01.92,Style1,,0,0,0,,Your stamina in\Nthe streets
+Dialogue: 0,0:00:01.92,0:00:02.96,Style2,,0,0,0,,should match\Nyour stamina in
+Dialogue: 0,0:00:02.96,0:00:04.55,Style3,,0,0,0,,the sheets.\NWhen it comes
+Dialogue: 0,0:00:04.55,0:00:05.96,Style4,,0,0,0,,to performance\,\NI believe in
+Dialogue: 0,0:00:05.96,0:00:07.75,Style5,,0,0,0,,the inside out\Napproach. And
+Dialogue: 0,0:00:07.75,0:00:09.00,Style1,,0,0,0,,for the long\Ngames I have
+Dialogue: 0,0:00:09.00,0:00:10.56,Style2,,0,0,0,,been taking\NDura excalibate
+Dialogue: 0,0:00:10.56,0:00:11.96,Style3,,0,0,0,,performer\Ncapsules GE.
+Dialogue: 0,0:00:11.96,0:00:13.92,Style4,,0,0,0,,It's made with\N100% natural
+Dialogue: 0,0:00:13.92,0:00:15.16,Style5,,0,0,0,,shilajal and\NAshwagandha.
+Dialogue: 0,0:00:15.16,0:00:16.96,Style1,,0,0,0,,Trust me\, it's\Nmy secret to
+Dialogue: 0,0:00:16.96,0:00:18.12,Style2,,0,0,0,,consistent\Nstamina. After
+Dialogue: 0,0:00:18.12,0:00:19.55,Style3,,0,0,0,,eight weeks of\Nthis routine\,
+Dialogue: 0,0:00:19.55,0:00:21.28,Style4,,0,0,0,,my endurance is\Nbetter at the
+Dialogue: 0,0:00:21.28,0:00:22.83,Style5,,0,0,0,,gym. Plus it\Nshows up when
+Dialogue: 0,0:00:22.83,0:00:24.44,Style1,,0,0,0,,it matters the\Nmost. But for
+Dialogue: 0,0:00:24.44,0:00:25.76,Style2,,0,0,0,,the movements\Nthen you need
+Dialogue: 0,0:00:25.76,0:00:27.28,Style3,,0,0,0,,immediate\Ncontrol. Durex
+Dialogue: 0,0:00:27.28,0:00:28.60,Style4,,0,0,0,,Elevate Climax\NXilia Spray is
+Dialogue: 0,0:00:28.60,0:00:30.16,Style5,,0,0,0,,your perfect\NBing map. Just
+Dialogue: 0,0:00:30.16,0:00:32.28,Style1,,0,0,0,,three sprees\, a\Nfew minutes and
+Dialogue: 0,0:00:32.28,0:00:33.20,Style2,,0,0,0,,you are ready\Nwith a
+Dialogue: 0,0:00:33.60,0:00:34.67,Style3,,0,0,0,,performance\Nworth
+Dialogue: 0,0:00:34.67,0:00:36.03,Style4,,0,0,0,,remembering.\NWith 300 sprays
+Dialogue: 0,0:00:36.03,0:00:37.56,Style5,,0,0,0,,per bottle\,\Nthis pocket
+Dialogue: 0,0:00:37.56,0:00:38.64,Style1,,0,0,0,,sized\Nconfidence
+Dialogue: 0,0:00:38.64,0:00:40.32,Style2,,0,0,0,,booster goes a\Nlong way. So
+Dialogue: 0,0:00:40.32,0:00:42.11,Style3,,0,0,0,,head towards\Ndurexindia.com
+Dialogue: 0,0:00:42.11,0:00:43.71,Style4,,0,0,0,,and get the\Nperfect duo and
+Dialogue: 0,0:00:43.71,0:00:44.96,Style5,,0,0,0,,take your\Nthings to next
+

@@ -1,0 +1,62 @@
+
+[Script Info]
+Title: Styled Captions
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Style1,Arial,41,&H000000FF,&H80000000,1,1,1,3,2,3,10,10,30,1
+Style: Style2,Verdana,38,&H00FF8000,&H80000000,0,0,1,1,2,1,10,10,30,1
+Style: Style3,Impact,37,&H0000FFFF,&H80000000,1,0,1,1,1,3,10,10,30,1
+Style: Style4,Verdana,32,&H000080FF,&H80000000,0,0,1,1,1,3,10,10,30,1
+Style: Style5,Verdana,31,&H00FF0000,&H80000000,0,1,1,1,0,2,10,10,30,1
+Style: Style6,Arial,38,&H00FF00FF,&H80000000,1,1,1,2,1,3,10,10,30,1
+Style: Style7,Tahoma,40,&H00800080,&H80000000,1,0,1,2,2,2,10,10,30,1
+Style: Style8,Times New Roman,36,&H00FF0000,&H80000000,1,1,1,2,2,2,10,10,30,1
+Style: Style9,Times New Roman,29,&H00000000,&H80000000,1,1,1,1,0,1,10,10,30,1
+Style: Style10,Comic Sans MS,36,&H00FF00FF,&H80000000,0,0,1,2,2,1,10,10,30,1
+Style: Style11,Arial,33,&H00FF8000,&H80000000,0,1,1,2,2,3,10,10,30,1
+Style: Style12,Tahoma,40,&H00FF8000,&H80000000,0,0,1,2,2,1,10,10,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.08,0:00:00.92,Style11,,0,0,0,,{\an5\marginV360}Your stamina in the
+Dialogue: 0,0:00:00.92,0:00:02.36,Style5,,0,0,0,,{\an5\marginV360}streets should match your
+Dialogue: 0,0:00:02.36,0:00:03.28,Style3,,0,0,0,,{\an5\marginV360}stamina in the sheets.
+Dialogue: 0,0:00:03.76,0:00:04.56,Style5,,0,0,0,,{\an5\marginV360}When it comes to
+Dialogue: 0,0:00:04.56,0:00:05.80,Style7,,0,0,0,,{\an5\marginV360}performance, I believe in
+Dialogue: 0,0:00:05.80,0:00:06.80,Style5,,0,0,0,,{\an5\marginV360}the inside out approach.
+Dialogue: 0,0:00:07.28,0:00:08.16,Style3,,0,0,0,,{\an5\marginV360}And for the long
+Dialogue: 0,0:00:08.16,0:00:09.00,Style2,,0,0,0,,{\an5\marginV360}games I have been
+Dialogue: 0,0:00:09.00,0:00:10.56,Style8,,0,0,0,,{\an5\marginV360}taking Dura excalibate performer
+Dialogue: 0,0:00:10.56,0:00:11.28,Style12,,0,0,0,,{\an5\marginV360}capsules GE.
+Dialogue: 0,0:00:11.60,0:00:12.96,Style10,,0,0,0,,{\an5\marginV360}It's made with 100%
+Dialogue: 0,0:00:12.96,0:00:14.80,Style4,,0,0,0,,{\an5\marginV360}natural shilajal and Ashwagandha.
+Dialogue: 0,0:00:14.80,0:00:15.80,Style9,,0,0,0,,{\an5\marginV360}Trust me, it's my
+Dialogue: 0,0:00:15.80,0:00:17.52,Style12,,0,0,0,,{\an5\marginV360}secret to consistent stamina.
+Dialogue: 0,0:00:17.52,0:00:18.52,Style1,,0,0,0,,{\an5\marginV360}After eight weeks of
+Dialogue: 0,0:00:18.52,0:00:20.12,Style10,,0,0,0,,{\an5\marginV360}this routine, my endurance
+Dialogue: 0,0:00:20.12,0:00:20.92,Style2,,0,0,0,,{\an5\marginV360}is better at the
+Dialogue: 0,0:00:20.92,0:00:22.24,Style12,,0,0,0,,{\an5\marginV360}gym. Plus it shows
+Dialogue: 0,0:00:22.24,0:00:23.16,Style9,,0,0,0,,{\an5\marginV360}up when it matters
+Dialogue: 0,0:00:23.16,0:00:24.32,Style10,,0,0,0,,{\an5\marginV360}the most. But for
+Dialogue: 0,0:00:24.32,0:00:25.12,Style6,,0,0,0,,{\an5\marginV360}the movements then you
+Dialogue: 0,0:00:25.12,0:00:26.08,Style5,,0,0,0,,{\an5\marginV360}need immediate control.
+Dialogue: 0,0:00:26.48,0:00:27.96,Style3,,0,0,0,,{\an5\marginV360}Durex Elevate Climax Xilia
+Dialogue: 0,0:00:27.96,0:00:28.88,Style4,,0,0,0,,{\an5\marginV360}Spray is your perfect
+Dialogue: 0,0:00:28.88,0:00:30.16,Style6,,0,0,0,,{\an5\marginV360}Bing map. Just three
+Dialogue: 0,0:00:30.16,0:00:31.84,Style9,,0,0,0,,{\an5\marginV360}sprees, a few minutes
+Dialogue: 0,0:00:31.84,0:00:32.64,Style12,,0,0,0,,{\an5\marginV360}and you are ready
+Dialogue: 0,0:00:32.64,0:00:33.20,Style1,,0,0,0,,{\an5\marginV360}with a performance
+Dialogue: 0,0:00:33.60,0:00:35.40,Style5,,0,0,0,,{\an5\marginV360}worth remembering. With 300
+Dialogue: 0,0:00:35.40,0:00:36.80,Style5,,0,0,0,,{\an5\marginV360}sprays per bottle, this
+Dialogue: 0,0:00:36.80,0:00:38.64,Style7,,0,0,0,,{\an5\marginV360}pocket sized confidence booster
+Dialogue: 0,0:00:38.64,0:00:39.76,Style7,,0,0,0,,{\an5\marginV360}goes a long way.
+Dialogue: 0,0:00:39.84,0:00:41.88,Style3,,0,0,0,,{\an5\marginV360}So head towards durexindia.com
+Dialogue: 0,0:00:41.88,0:00:43.00,Style4,,0,0,0,,{\an5\marginV360}and get the perfect
+Dialogue: 0,0:00:43.00,0:00:43.88,Style2,,0,0,0,,{\an5\marginV360}duo and take your
+Dialogue: 0,0:00:43.88,0:00:44.96,Style3,,0,0,0,,{\an5\marginV360}things to next levels.

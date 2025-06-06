@@ -1,0 +1,49 @@
+[Script Info]
+Title: Vertical Reel Subtitle - Enhanced
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: WhitePromin,Poppins,72,&H00FFFFFF,&H000000FF,&H00000000,&H90000000,0,0,0,0,100,100,2,0,1,4,3,5,10,10,20,1
+Style: YellowBold,Poppins,78,&H0000FFFF,&H000000FF,&H00000000,&H90000000,1,0,0,0,105,105,3,0,1,4,3,5,10,10,20,1
+Style: WhiteLarge,Roboto,68,&H00FFFFFF,&H000000FF,&H00000000,&H90000000,0,0,0,0,100,100,2,0,1,4,3,5,10,10,20,1
+Style: YellowMega,Impact,82,&H0000FFFF,&H000000FF,&H00000000,&H90000000,1,0,0,0,110,110,4,0,1,5,4,5,10,10,20,1
+Style: RedStrong,Arial,70,&H000000FF,&H000000FF,&H00FFFFFF,&H90000000,1,0,0,0,105,105,3,0,1,4,3,5,10,10,20,1
+Style: BlackBold,Arial,76,&H00000000,&H000000FF,&H00FFFFFF,&H90000000,1,0,0,0,100,100,2,0,1,4,3,5,10,10,20,1
+Style: BrandHighlight,Poppins,84,&H0000FFFF,&H000000FF,&H00000000,&HA0000000,1,0,0,0,115,115,5,0,1,6,5,5,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.08,0:00:01.50,WhitePromin,,0,0,0,,Your stamina in\Nthe streets
+Dialogue: 0,0:00:01.50,0:00:03.28,YellowBold,,0,0,0,,should match your\Nstamina in sheets
+Dialogue: 0,0:00:03.76,0:00:05.20,WhiteLarge,,0,0,0,,{\pos(540,960)}When it comes\Nto performance
+Dialogue: 0,0:00:05.20,0:00:06.80,YellowMega,,0,0,0,,{\pos(540,960)}I believe in\Ninside out approach
+Dialogue: 0,0:00:07.28,0:00:08.80,WhitePromin,,0,0,0,,{\pos(540,960)}And for the\Nlong games
+Dialogue: 0,0:00:08.80,0:00:10.50,BrandHighlight,,0,0,0,,{\pos(540,960)}I have been\Ntaking Dura
+Dialogue: 0,0:00:10.50,0:00:11.28,BrandHighlight,,0,0,0,,{\pos(540,960)}excalibate performer\Ncapsules GE
+Dialogue: 0,0:00:11.60,0:00:13.00,WhiteLarge,,0,0,0,,{\pos(540,960)}It's made with\N100% natural
+Dialogue: 0,0:00:13.00,0:00:14.00,YellowBold,,0,0,0,,{\pos(540,960)}shilajal and\NAshwagandha
+Dialogue: 0,0:00:14.80,0:00:16.20,YellowMega,,0,0,0,,{\pos(540,960)}Trust me it's\Nmy secret
+Dialogue: 0,0:00:16.20,0:00:17.52,YellowMega,,0,0,0,,{\pos(540,960)}to consistent\Nstamina
+Dialogue: 0,0:00:17.52,0:00:19.00,WhitePromin,,0,0,0,,{\pos(540,960)}After eight weeks\Nof consistent use
+Dialogue: 0,0:00:19.50,0:00:21.00,WhiteLarge,,0,0,0,,{\pos(300,1200)}par lagta ha
+Dialogue: 0,0:00:21.00,0:00:22.50,YellowBold,,0,0,0,,{\pos(300,1300)}body ne
+Dialogue: 0,0:00:22.50,0:00:24.00,WhitePromin,,0,0,0,,{\pos(300,1400)}pain ko
+Dialogue: 0,0:00:24.50,0:00:26.00,WhiteLarge,,0,0,0,,{\pos(750,1200)}permanent
+Dialogue: 0,0:00:26.00,0:00:27.50,YellowMega,,0,0,0,,{\pos(750,1300)}resident
+Dialogue: 0,0:00:27.50,0:00:29.00,WhitePromin,,0,0,0,,{\pos(750,1400)}bana diya ha
+Dialogue: 0,0:00:30.00,0:00:31.50,BlackBold,,0,0,0,,{\pos(300,400)}Pehle wala
+Dialogue: 0,0:00:31.50,0:00:33.00,YellowMega,,0,0,0,,{\pos(300,500)}creatine
+Dialogue: 0,0:00:34.00,0:00:35.50,WhiteLarge,,0,0,0,,{\pos(400,1400)}total
+Dialogue: 0,0:00:35.50,0:00:37.00,RedStrong,,0,0,0,,{\pos(400,1500)}waste
+Dialogue: 0,0:00:38.00,0:00:39.50,YellowMega,,0,0,0,,{\pos(600,1400)}Clumpy
+Dialogue: 0,0:00:39.50,0:00:41.00,WhitePromin,,0,0,0,,{\pos(600,1500)}yuck taste
+Dialogue: 0,0:00:42.00,0:00:43.50,YellowBold,,0,0,0,,{\pos(300,800)}Gym
+Dialogue: 0,0:00:43.50,0:00:45.00,WhiteLarge,,0,0,0,,{\pos(300,900)}join kiya tha
+Dialogue: 0,0:00:46.00,0:00:47.50,YellowMega,,0,0,0,,{\pos(540,1200)}hourglass figure
+Dialogue: 0,0:00:47.50,0:00:49.00,WhitePromin,,0,0,0,,{\pos(540,1300)}banane ke liye

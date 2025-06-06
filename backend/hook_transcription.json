@@ -1,0 +1,775 @@
+{
+  "id": "7a19cce3-0293-4e5e-8e12-6a9ddf481797",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/8fd1076c-44cf-4f20-913e-ea206a56d986",
+  "text": "Gym joint Hourglass figure Banana Ki Le Pad body Permanent resident Banati Hai Hahle Wala Creatine Total waste Clumpy Yuck. Taste or results zero. But then I tried this Muscle Blaze cramp and I've been using it for three weeks and generally it's the only creatine that hasn't disappointed me in just three weeks. Results sickness start Hoga Hai Muscles visibly fuller. Recovery Next level Fast or next intense soreness Way less like I was finally doing everything right. Or boring. Tasteless powders five amazing flavours. Trust me, I've tried everything. Muscle glaze Kriyamp is the real deal shop now.",
+  "words": [
+    {
+      "text": "Gym",
+      "start": 720,
+      "end": 920,
+      "confidence": 0.9682617,
+      "speaker": null
+    },
+    {
+      "text": "joint",
+      "start": 920,
+      "end": 1280,
+      "confidence": 0.7003174,
+      "speaker": null
+    },
+    {
+      "text": "Hourglass",
+      "start": 1520,
+      "end": 2160,
+      "confidence": 0.9564209,
+      "speaker": null
+    },
+    {
+      "text": "figure",
+      "start": 2160,
+      "end": 2440,
+      "confidence": 0.98535156,
+      "speaker": null
+    },
+    {
+      "text": "Banana",
+      "start": 2440,
+      "end": 2760,
+      "confidence": 0.8544922,
+      "speaker": null
+    },
+    {
+      "text": "Ki",
+      "start": 2760,
+      "end": 2960,
+      "confidence": 0.39562988,
+      "speaker": null
+    },
+    {
+      "text": "Le",
+      "start": 2960,
+      "end": 3120,
+      "confidence": 0.69873047,
+      "speaker": null
+    },
+    {
+      "text": "Pad",
+      "start": 3120,
+      "end": 3520,
+      "confidence": 0.54211426,
+      "speaker": null
+    },
+    {
+      "text": "body",
+      "start": 3760,
+      "end": 4160,
+      "confidence": 0.7265625,
+      "speaker": null
+    },
+    {
+      "text": "Permanent",
+      "start": 4800,
+      "end": 5320,
+      "confidence": 0.97542316,
+      "speaker": null
+    },
+    {
+      "text": "resident",
+      "start": 5320,
+      "end": 5720,
+      "confidence": 0.99560547,
+      "speaker": null
+    },
+    {
+      "text": "Banati",
+      "start": 5720,
+      "end": 6240,
+      "confidence": 0.7290039,
+      "speaker": null
+    },
+    {
+      "text": "Hai",
+      "start": 6240,
+      "end": 6480,
+      "confidence": 0.93969727,
+      "speaker": null
+    },
+    {
+      "text": "Hahle",
+      "start": 6480,
+      "end": 6760,
+      "confidence": 0.5752767,
+      "speaker": null
+    },
+    {
+      "text": "Wala",
+      "start": 6760,
+      "end": 7120,
+      "confidence": 0.75390625,
+      "speaker": null
+    },
+    {
+      "text": "Creatine",
+      "start": 7120,
+      "end": 7560,
+      "confidence": 0.8745117,
+      "speaker": null
+    },
+    {
+      "text": "Total",
+      "start": 7560,
+      "end": 7920,
+      "confidence": 0.98535156,
+      "speaker": null
+    },
+    {
+      "text": "waste",
+      "start": 7920,
+      "end": 8400,
+      "confidence": 0.6254883,
+      "speaker": null
+    },
+    {
+      "text": "Clumpy",
+      "start": 8400,
+      "end": 9120,
+      "confidence": 0.99886066,
+      "speaker": null
+    },
+    {
+      "text": "Yuck.",
+      "start": 9120,
+      "end": 9560,
+      "confidence": 0.9880371,
+      "speaker": null
+    },
+    {
+      "text": "Taste",
+      "start": 9560,
+      "end": 10000,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "or",
+      "start": 10000,
+      "end": 10240,
+      "confidence": 0.8833008,
+      "speaker": null
+    },
+    {
+      "text": "results",
+      "start": 10240,
+      "end": 10560,
+      "confidence": 0.95654297,
+      "speaker": null
+    },
+    {
+      "text": "zero.",
+      "start": 10960,
+      "end": 11360,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "But",
+      "start": 11440,
+      "end": 11720,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "then",
+      "start": 11720,
+      "end": 11880,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 11880,
+      "end": 12040,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "tried",
+      "start": 12040,
+      "end": 12280,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "this",
+      "start": 12280,
+      "end": 12480,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "Muscle",
+      "start": 12480,
+      "end": 12840,
+      "confidence": 0.99641925,
+      "speaker": null
+    },
+    {
+      "text": "Blaze",
+      "start": 12840,
+      "end": 13200,
+      "confidence": 0.9350586,
+      "speaker": null
+    },
+    {
+      "text": "cramp",
+      "start": 13200,
+      "end": 13560,
+      "confidence": 0.717041,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 13560,
+      "end": 13760,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "I've",
+      "start": 13760,
+      "end": 13960,
+      "confidence": 0.88639325,
+      "speaker": null
+    },
+    {
+      "text": "been",
+      "start": 13960,
+      "end": 14080,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "using",
+      "start": 14080,
+      "end": 14280,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "it",
+      "start": 14280,
+      "end": 14520,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "for",
+      "start": 14520,
+      "end": 14720,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "three",
+      "start": 14720,
+      "end": 15000,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "weeks",
+      "start": 15000,
+      "end": 15360,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 15360,
+      "end": 15680,
+      "confidence": 0.9970703,
+      "speaker": null
+    },
+    {
+      "text": "generally",
+      "start": 15680,
+      "end": 16240,
+      "confidence": 0.8457031,
+      "speaker": null
+    },
+    {
+      "text": "it's",
+      "start": 16240,
+      "end": 16520,
+      "confidence": 0.98095703,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 16520,
+      "end": 16680,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "only",
+      "start": 16680,
+      "end": 16920,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "creatine",
+      "start": 16920,
+      "end": 17600,
+      "confidence": 0.90722656,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 17600,
+      "end": 17840,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "hasn't",
+      "start": 17840,
+      "end": 18200,
+      "confidence": 0.9998779,
+      "speaker": null
+    },
+    {
+      "text": "disappointed",
+      "start": 18200,
+      "end": 18760,
+      "confidence": 0.9996338,
+      "speaker": null
+    },
+    {
+      "text": "me",
+      "start": 18760,
+      "end": 19000,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 19000,
+      "end": 19240,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "just",
+      "start": 19240,
+      "end": 19480,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "three",
+      "start": 19480,
+      "end": 19720,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "weeks.",
+      "start": 19720,
+      "end": 20000,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "Results",
+      "start": 20240,
+      "end": 20600,
+      "confidence": 0.43969727,
+      "speaker": null
+    },
+    {
+      "text": "sickness",
+      "start": 20600,
+      "end": 21040,
+      "confidence": 0.8510742,
+      "speaker": null
+    },
+    {
+      "text": "start",
+      "start": 21040,
+      "end": 21280,
+      "confidence": 0.8925781,
+      "speaker": null
+    },
+    {
+      "text": "Hoga",
+      "start": 21280,
+      "end": 21680,
+      "confidence": 0.71988934,
+      "speaker": null
+    },
+    {
+      "text": "Hai",
+      "start": 21680,
+      "end": 21840,
+      "confidence": 0.62609863,
+      "speaker": null
+    },
+    {
+      "text": "Muscles",
+      "start": 21840,
+      "end": 22320,
+      "confidence": 0.9869792,
+      "speaker": null
+    },
+    {
+      "text": "visibly",
+      "start": 22320,
+      "end": 22880,
+      "confidence": 0.9978841,
+      "speaker": null
+    },
+    {
+      "text": "fuller.",
+      "start": 22880,
+      "end": 23400,
+      "confidence": 0.9970703,
+      "speaker": null
+    },
+    {
+      "text": "Recovery",
+      "start": 23400,
+      "end": 24080,
+      "confidence": 0.9920247,
+      "speaker": null
+    },
+    {
+      "text": "Next",
+      "start": 24080,
+      "end": 24400,
+      "confidence": 0.9970703,
+      "speaker": null
+    },
+    {
+      "text": "level",
+      "start": 24400,
+      "end": 24680,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "Fast",
+      "start": 24680,
+      "end": 25080,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "or",
+      "start": 25080,
+      "end": 25440,
+      "confidence": 0.8623047,
+      "speaker": null
+    },
+    {
+      "text": "next",
+      "start": 25600,
+      "end": 26000,
+      "confidence": 0.9868164,
+      "speaker": null
+    },
+    {
+      "text": "intense",
+      "start": 26400,
+      "end": 26880,
+      "confidence": 0.98828125,
+      "speaker": null
+    },
+    {
+      "text": "soreness",
+      "start": 26880,
+      "end": 27440,
+      "confidence": 0.89160156,
+      "speaker": null
+    },
+    {
+      "text": "Way",
+      "start": 27790,
+      "end": 27950,
+      "confidence": 0.94384766,
+      "speaker": null
+    },
+    {
+      "text": "less",
+      "start": 27950,
+      "end": 28270,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "like",
+      "start": 28430,
+      "end": 28710,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 28710,
+      "end": 28870,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "was",
+      "start": 28870,
+      "end": 29110,
+      "confidence": 0.9941406,
+      "speaker": null
+    },
+    {
+      "text": "finally",
+      "start": 29110,
+      "end": 29590,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "doing",
+      "start": 29590,
+      "end": 29870,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "everything",
+      "start": 29950,
+      "end": 30350,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "right.",
+      "start": 30350,
+      "end": 30750,
+      "confidence": 0.99658203,
+      "speaker": null
+    },
+    {
+      "text": "Or",
+      "start": 30750,
+      "end": 31070,
+      "confidence": 0.8989258,
+      "speaker": null
+    },
+    {
+      "text": "boring.",
+      "start": 31070,
+      "end": 31390,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "Tasteless",
+      "start": 31390,
+      "end": 31910,
+      "confidence": 0.9987793,
+      "speaker": null
+    },
+    {
+      "text": "powders",
+      "start": 31910,
+      "end": 32350,
+      "confidence": 0.9848633,
+      "speaker": null
+    },
+    {
+      "text": "five",
+      "start": 32910,
+      "end": 33230,
+      "confidence": 0.9790039,
+      "speaker": null
+    },
+    {
+      "text": "amazing",
+      "start": 33230,
+      "end": 33590,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "flavours.",
+      "start": 33590,
+      "end": 34110,
+      "confidence": 0.8758545,
+      "speaker": null
+    },
+    {
+      "text": "Trust",
+      "start": 34830,
+      "end": 35190,
+      "confidence": 0.9992676,
+      "speaker": null
+    },
+    {
+      "text": "me,",
+      "start": 35190,
+      "end": 35350,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "I've",
+      "start": 35350,
+      "end": 35670,
+      "confidence": 0.97249347,
+      "speaker": null
+    },
+    {
+      "text": "tried",
+      "start": 35670,
+      "end": 35990,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "everything.",
+      "start": 35990,
+      "end": 36350,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "Muscle",
+      "start": 36510,
+      "end": 36950,
+      "confidence": 0.8429362,
+      "speaker": null
+    },
+    {
+      "text": "glaze",
+      "start": 36950,
+      "end": 37310,
+      "confidence": 0.7871094,
+      "speaker": null
+    },
+    {
+      "text": "Kriyamp",
+      "start": 37310,
+      "end": 37710,
+      "confidence": 0.7573242,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 37710,
+      "end": 37830,
+      "confidence": 0.9892578,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 37830,
+      "end": 37990,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "real",
+      "start": 37990,
+      "end": 38190,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "deal",
+      "start": 38190,
+      "end": 38510,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "shop",
+      "start": 38510,
+      "end": 38910,
+      "confidence": 0.9970703,
+      "speaker": null
+    },
+    {
+      "text": "now.",
+      "start": 38910,
+      "end": 39230,
+      "confidence": 0.9980469,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.9258447,
+  "audio_duration": 40,
+  "punctuate": true,
+  "format_text": true,
+  "dual_channel": null,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 583896,
+  "token_id": 587134
+}
